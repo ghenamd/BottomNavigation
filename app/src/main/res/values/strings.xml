@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_recipes">Recipes</string>
+    <string name="title_submit">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Donut</string>
+    <string name="second_fragment">Second Fragment</string>
+</resources>
